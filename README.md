@@ -9,7 +9,7 @@ This module introduced us to Ad-hoc polymorphism, overloads and orthodox canonic
 - run each program and see what they do xd
 
 ## Subject:
-[cpp_module02_subject](https://github.com/nschumac/42cursus04-Cpp_module00/blob/main/subject/cpp_module02-en.pdf)
+[cpp_module02_subject](https://github.com/nschumac/42cursus04-Cpp_module02/blob/main/subject/cpp_module02-en.pdf)
 
 ## Result:
 - Status: <span style="color:green">Completed</span>
